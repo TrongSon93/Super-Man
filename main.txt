@@ -1,4 +1,5 @@
 - login component
-- register component son1
+- register component
 - management user component abcxyz
+- management user component - 123412341
 - search feature chinh va son
